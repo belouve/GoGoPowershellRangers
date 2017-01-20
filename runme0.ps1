@@ -20,5 +20,5 @@ Write-Host "      LOL U LOSE"
 Start-Sleep -m 500
 Write-Host " My voice is my passport, verify me "
 Write-Host "       LOL U LOSE"
-Write-Host " (Now check your logs for the call out to GitHub) "
+Write-Host "(Now check your logs for the call out to GitHub) "
 
