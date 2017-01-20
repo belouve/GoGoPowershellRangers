@@ -33,7 +33,7 @@ Write-Host "       LOL U LOSE"
 $obj.SendKeys([char]175)
 $obj.SendKeys([char]175)
 Start-Sleep 1
-Write-Host " Wait for it... "
+Write-Host "Wait for it... "
 $obj.SendKeys([char]175)
 $obj.SendKeys([char]175)
 Start-Sleep 1
