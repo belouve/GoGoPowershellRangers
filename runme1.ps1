@@ -57,3 +57,5 @@ Start http://www.priceisrightfailhorn.com/
 # $obj.SendKeys([char]175)
 # Start-Sleep 1
 # }
+# $wshell = New-Object -ComObject Wscript.Shell -ErrorAction Stop
+# $wshell.Popup("Aborted",0,"ERROR!",48+4)
