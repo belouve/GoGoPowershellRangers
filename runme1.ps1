@@ -49,3 +49,11 @@ Start http://www.priceisrightfailhorn.com/
 # Start-Sleep 1
 # Get-EventLog -list
 # Clear-EventLog -logname Application, Security -computername $env:COMPUTERNAME
+# Future thoughts:
+# use $obj.popup() instead of write-host, then send thousands to the machine.
+# also, use some functions, don't need spaghetti code
+# function volumeUp
+# {
+# $obj.SendKeys([char]175)
+# Start-Sleep 1
+# }
